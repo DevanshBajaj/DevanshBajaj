@@ -25,6 +25,6 @@
 **Contact me**
 
 <p align='left'>
-<a href="https://twitter.com/devansh21db"><img height="25" src="icons/twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/devanshbajaj"><img height="25" src="icons/instagram.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/devansh21db"><img height="25" src="icons/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/devansh21db"><img height="25" src="https://raw.githubusercontent.com/DevanshBajaj/DevanshBajaj/master/icons/twitter.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/devanshbajaj"><img height="25" src="https://raw.githubusercontent.com/DevanshBajaj/DevanshBajaj/master/icons/instagram.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/devansh21db"><img height="25" src="https://raw.githubusercontent.com/DevanshBajaj/DevanshBajaj/master/icons/linkedin.svg"></a>&nbsp;&nbsp;
