@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on HealthyFood Website Project and on my React skills.
 - 🌱 I’m currently learning React.
 - 💬 Ask me about Web Development or Android.
-- :panda_face: Worked on this last month - <a href="https://devanshbajaj.me/">My Portfolio</a>
+- :panda_face: Worked on this last month - <a href="https://devanshbajaj.dev/">My Portfolio</a>
 
 
 **Langauges & Tools**
