@@ -1,10 +1,10 @@
 ## Hi there 👋
 ### My name is **Devansh Bajaj**.
 
-- 🔭 I’m currently working on HealthyFood Website Project and on my React skills.
+- 🔭 I’m currently working on HealthyFood Website Project and Frontend for Streaming site using react.
 - 🌱 I’m currently learning React.
 - 💬 Ask me about Web Development or Android.
-- :panda_face: Worked on this last month - <a href="https://devanshbajaj.dev/">My Portfolio</a>
+- :panda_face: Worked on this last month - <a href="https://vibrant-galileo-f0c268.netlify.app/#/">Pokedex</a>
 
 
 **Langauges & Tools**
