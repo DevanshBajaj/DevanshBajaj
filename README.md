@@ -1,10 +1,8 @@
 ## Hi there 👋
 ### My name is **Devansh Bajaj**.
 
-- 🔭 I’m currently working on HealthyFood Website Project and Frontend for Streaming site using react.
-- 🌱 I’m currently learning React.
-- 💬 Ask me about Web Development or Android.
-- :panda_face: Worked on this last month - <a href="https://vibrant-galileo-f0c268.netlify.app/#/">Pokedex</a>
+I'm a Frontend developer. I have a passion for building web applications and designing beautiful user interfaces.
+Recently I've been working with technologies like Javascript, React, Next.js and I'm currently learning Node.js. I also love working with tools like Figma for designing.
 
 
 **Langauges & Tools**
@@ -12,27 +10,28 @@
 <code>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
 <code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>&nbsp;&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;&nbsp;
 <code>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;&nbsp;
 <code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>&nbsp;&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>&nbsp;&nbsp;
 <code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>&nbsp;&nbsp;
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;&nbsp;
 <code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><br /> <br />
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;&nbsp;
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/graphql/graphql.png"></code>&nbsp;&nbsp;
+<code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code><br /><br />
 
 
 **Contact me**
 
-<p align='left'>
-<a href="https://twitter.com/devansh21db"><img height="25" src="https://raw.githubusercontent.com/DevanshBajaj/DevanshBajaj/master/icons/twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/devanshbajaj"><img height="25" src="https://raw.githubusercontent.com/DevanshBajaj/DevanshBajaj/master/icons/instagram.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/devansh21db"><img height="25" src="https://raw.githubusercontent.com/DevanshBajaj/DevanshBajaj/master/icons/linkedin.svg"></a><br /> <br /> 
-
-<a href="https://github.com/devanshbajaj">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devanshbajaj&count_private=true&include_all_commits=true&show_icons=true&hide=stars,issues&theme=nord" />
-</a>
-<a href="https://github.com/devanshbajaj">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshbajaj&layout=compact&hide=Scheme&theme=nord" />
-</a>
+- Portfolio/Blog - [devanshbajaj.dev](https://www.devanshbajaj.dev/)
+- Twitter - [@devansh21db](https://twitter.com/devansh21db)
+- LinkedIn - [Devansh Bajaj](https://www.linkedin.com/in/devansh21db/)
+- E-mail - [db@devanshbajaj.dev](mailto:db@devanshbajaj.dev?Subject=Hello)
+- Telegram - [@devanshbajaj](https://t.me/devanshbajaj)
+- Dribble - [devanshbajaj](https://dribbble.com/devanshbajaj)
